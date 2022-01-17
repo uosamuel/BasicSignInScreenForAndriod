@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">signinscreen</string>
+    <string name="title_activity_anothersignin">anothersignin</string>
+</resources>
